@@ -194,6 +194,8 @@ ul.b li{
 	background-image: url("https://i.stack.imgur.com/nf0zO.png");
     background-size: cover;
 }
+ 
+/* PC First */
 
 @media(max-width: 500px) {
     .container{
